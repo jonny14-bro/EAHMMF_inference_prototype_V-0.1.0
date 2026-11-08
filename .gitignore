@@ -1,0 +1,21 @@
+# Compiled binaries and objects
+qwen3moe
+test_eahmmf
+*.o
+*.so
+*.a
+
+# Generated test fixture
+tiny.gguf
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local files and temporary output
+README.original.md
+*.log
+.DS_Store
