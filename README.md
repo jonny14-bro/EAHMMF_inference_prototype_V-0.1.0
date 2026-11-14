@@ -387,4 +387,7 @@ Future research may investigate predictive expert placement, prefetching, asynch
 
 ## License
 
-Add the chosen license before public distribution. Until a license is included, users should not assume the source is licensed for unrestricted reuse.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
